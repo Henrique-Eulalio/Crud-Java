@@ -1,2 +1,2 @@
-# Crud-Java
+# Crud - Java
 Crudo básico no Java(desktop).
